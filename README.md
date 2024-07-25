@@ -1,0 +1,1 @@
+The Zomato Rating Prediction System aims to provide accurate predictions of restaurant ratings using Machine Learning algorithms. By analyzing various factors such as cuisine, location, pricing, ambience, and customer reviews, the system leverages a trained model to predict ratings, enabling users to make informed decisions when selecting restaurants.
